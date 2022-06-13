@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "title"
+title: "Hello!"
 
 ---
 
-This page is under construction. Please come back later! :)
+This page is under construction. Please come back later :)
