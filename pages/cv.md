@@ -6,4 +6,4 @@ title: "CV"
 About me
 
 
-![pic](/assets/profilepic.JPG))
+![pic](/assets/profilepic.JPG)
