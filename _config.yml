@@ -1,7 +1,6 @@
 title: "Sonja Savolainen"
 author: "Sonja Savolainen"
 description: "University of Helsinki"
-permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
