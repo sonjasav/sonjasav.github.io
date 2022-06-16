@@ -5,6 +5,7 @@ categories: media
 
 ---
 
-Hello! This page is under construction. Please come back later :)
-
 ![pic](/assets/bannerpic.jpg)
+
+
+Hello! This page is under construction. Please come back later :)
