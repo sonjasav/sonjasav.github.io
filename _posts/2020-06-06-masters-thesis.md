@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Climate Change Movement and Political Parties : Social Media Interaction During the Electoral Period 2019 in Finland
+title: "The Climate Change Movement and Political Parties : Social Media Interaction During the Electoral Period 2019 in Finland"
 categories: media
 ---
 
