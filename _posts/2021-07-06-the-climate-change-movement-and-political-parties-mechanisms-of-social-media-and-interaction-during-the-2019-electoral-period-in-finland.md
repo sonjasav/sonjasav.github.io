@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peer-reviewed paper: The climate change movement and political parties: Mechanisms of social media and interaction during the 2019 electoral period in Finland
+title: "The climate change movement and political parties: Mechanisms of social media and interaction during the 2019 electoral period in Finland"
 categories: media
 ---
 
