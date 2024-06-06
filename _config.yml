@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact.md", title: "Contact"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Google Scholar, icon: google-scholar, url: "https://bit.ly/gs-savolainen"}
+  - {title: Scholar, icon: google-scholar, url: "https://bit.ly/gs-savolainen"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/SonjaSavolainen"}
   - {title: Github, icon: github, url: "https://github.com/sonjasav"}
 
