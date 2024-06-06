@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "research.md", title: "Research"}
   - {file: "contact.md", title: "Contact"}
+  - {file: "/assets/cv_savolainen.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: circle-envelope, url: "mailto:sonja.savolainen@helsinki.fi"}
