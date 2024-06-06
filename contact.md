@@ -8,6 +8,8 @@ Sonja M. Savolainen
 
 firstname.lastname@helsinki.fi
 
+
+
 You can find my curriculum vitae [here](/assets/cv_savolainen.pdf){:target="_blank"}.
 
 Google Scholar: [https://bit.ly/gs-savolainen](https://bit.ly/gs-savolainen)
