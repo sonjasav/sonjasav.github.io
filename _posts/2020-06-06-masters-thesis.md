@@ -6,7 +6,7 @@ categories: media
 
 
 
-In my [master’s thesis](http://urn.fi/URN:NBN:fi:hulib-202009024006), I investigate the dynamics between the climate movement and Finnish political parties in 2019. The climate movement mobilization overlapped two elections in Finland: the parliamentary elections in April and the European parliamentary elections in May. The research focuses on developments in the relationship before, during and after the elections, which are analysed using the contentious politics approach and electoral contention mechanisms by Tilly, McAdam and Tarrow.
+In my [master’s thesis](http://urn.fi/URN:NBN:fi:hulib-202009024006){:target="_blank"}, I investigate the dynamics between the climate movement and Finnish political parties in 2019. The climate movement mobilization overlapped two elections in Finland: the parliamentary elections in April and the European parliamentary elections in May. The research focuses on developments in the relationship before, during and after the elections, which are analysed using the contentious politics approach and electoral contention mechanisms by Tilly, McAdam and Tarrow.
 
 I use a case study research design to examine the distinctive circumstances in which a global mobilization wave overlaps with two elections. The main set of data consists of all public tweets in Finnish twitter, which mention either ‘ilmastolakko’ (climate strike) or ‘#nytonpakko’ (#actnow) and were published in 2019. Further, I filtered the data to construct datasets of tweets sent out by Finnish parliament members. Statistics collected by the Finnish police force and survey data collected by researchers in climate protests are used to support the analysis.
 
