@@ -6,7 +6,7 @@ title: "Contact information"
 
 Sonja M. Savolainen
 
-You can find my CV [here](/assets/cv_savolainen.pdf){:target="_blank"}.
+You can find my curriculum vitae [here](/assets/cv_savolainen.pdf){:target="_blank"}.
 
 firstname.lastname@helsinki.fi
 
