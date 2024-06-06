@@ -4,7 +4,15 @@
   {%- assign url = item.url | default: node.url -%}
   {%- assign title = item.title | default: node.title -%}
   <a href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-    {%- if item.icon -%}<svg aria-label="{{ title }}" class="icon"><use xlink:href="{{ "/assets/" | relative_url }}#{{ item.icon }}"></use></svg>{%- else -%}{{ title }}{%- endif -%}
+    {%- if item.icon -%}
+      {%- assign icon_path = "/assets/" | append: item.icon | append: ".svg" | relative_url -%}
+      <svg aria-label="{{ title }}" class="icon">
+        <use xlink:href="{{ icon_path }}"></use>
+      </svg>
+      <!-- Debug: {{ icon_path }} -->
+    {%- else -%}
+      {{ title }}
+    {%- endif -%}
   </a>
 {%- endfor -%}
 </nav>
