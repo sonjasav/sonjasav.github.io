@@ -10,7 +10,7 @@ You can find my curriculum vitae [here](/assets/cv_savolainen.pdf){:target="_bla
 
 firstname.lastname@helsinki.fi
 
-Google Scholar: https://bit.ly/gs-savolainen
+Google Scholar: [https://bit.ly/gs-savolainen](https://bit.ly/gs-savolainen)
 
 Twitter: [@sonjasavolainen](https://twitter.com/sonjasavolainen)
 
