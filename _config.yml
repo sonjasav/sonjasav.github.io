@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=BPyspP4AAAAJ&hl=fi"}
-  #- {title: Twitter, icon: twitter, url: "https://twitter.com/SonjaSavolainen"}
-  #- {title: Github, icon: github, url: "https://github.com/sonjasav"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/SonjaSavolainen"}
+  - {title: Github, icon: github, url: "https://github.com/sonjasav"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
